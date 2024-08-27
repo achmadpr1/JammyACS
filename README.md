@@ -9,7 +9,7 @@ sudo su
 git clone https://github.com/achmadpr1/JammyACS
 ```
 ```
-cd GACS-Ubuntu-22.04
+cd JammyACS
 ```
 ```
 chmod +x GACS-Jammy.sh
